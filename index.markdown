@@ -13,7 +13,7 @@ I'm a Ph.D. candidate in Agricultural & Applied Economics at the University of W
 
 ### Research interests 
 
-Macroeconomics, Market Structure, Search Theory 
+Macroeconomics, Market Structure, Search & Matching
 
 ### Email
 zqiao7@wisc.edu
