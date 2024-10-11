@@ -28,4 +28,6 @@ Market activities are mostly bilateral. A clear understanding of the pricing mec
 
 **Frictional Markup**
 
+**Market Segmentation with Frictions**, with Peter Norman and Randall Wright
+
 **Market Order and Interest Rate Parity**
