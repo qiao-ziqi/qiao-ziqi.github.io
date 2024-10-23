@@ -4,13 +4,14 @@ title: Research
 permalink: /research/
 ---
 
-# Working papers
+# Thesis: Three Chapters on Markets with Frictions
 
 **Market Liquidity and Inventory Cycles**
 
+[[paper]](asset/research/Qiao_Inventory_Cycles.pdf)
 <details>
-<summary>Abstract</summary>
-Inventory behavior is an important part of the business cycles. Using U.S. data, the structural VAR shows that inventory investment is pro-cyclical, the inventory-sales ratio is counter-cyclical and the aggregate markup is pro-cyclical. However, the existing explanations for inventory holdings can’t adequately capture these empirical regularities. To fill the gap, this paper rationalizes inventory holdings via search friction and explains its cyclical behavior by market liquidity – the trade-off between markup and selling speed. In the proposed model, sellers stock goods and post prices, while buyers choose which sellers to visit. Due to the lack of coordination, the sales are stochastic and there is leftover inventory. The frictional trade reveals a new incentive to hold inventory. Sellers compete in not only pricing but also buyers’ probability of consumption as part of their shopping experience. As a result, carrying additional inventory allows sellers to post more profitable terms of trade. This new incentive has negative externality, such that sellers largely overstock in equilibrium. In contrast to the Walrasian framework in which agents take prices as given, sellers in the proposed model can actively adjust prices in addition to quantities. The additional pricing channel helps the model making predictions that are in line with the empirical regularities of inventory cycles.
+<summary> Abstract </summary>
+Inventory behavior plays a crucial role in business cycles. Using U.S. data, I document that inventory investment is pro-cyclical, the inventory-sales ratio is counter-cyclical, and aggregate markup is pro-cyclical. However, existing models fail to fully explain these empirical patterns. To address this, I introduce a model where inventory holdings are driven by search friction and shaped by market liquidity, defined as the trade-off between markup and the speed of sales. In this model, sellers stock goods and post prices, while buyers select which sellers to visit. Due to the absence of coordination among buyers, sales are stochastic, often resulting in leftover inventory. This friction introduces a new incentive for sellers to hold inventory: improving buyer experience by offering better terms of trade. However, this incentive leads to a negative externality where sellers overstock in the calibrated equilibrium. Unlike the Walrasian framework, where prices are determined by the market clearing condition, sellers in my model actively adjust both prices and quantities. This pricing flexibility allows the model to generate predictions that align with observed patterns of inventory cycles.
 </details>
 
 &nbsp;
@@ -18,16 +19,21 @@ Inventory behavior is an important part of the business cycles. Using U.S. data,
 **Price Commitment, Reputation and Bargaining in Bilateral Trade**
 
 <details>
-<summary>Abstract</summary>
+<summary> Abstract </summary>
 Market activities are mostly bilateral. A clear understanding of the pricing mechanisms has nontrivial policy implications. This paper considers a price-posting environment with the option of bargaining upon meeting. Sellers have reputation concerns about price commitment, while buyers take into account potential contingent pricing when bargaining is acceptable. Despite being ex-ante homogeneous, the sellers who accept bargaining post higher prices than other sellers who don’t accept bargaining. Whether we observe bargaining in equilibrium depends on the market conditions. Bargaining happens when (1) trade frequency is low, (2) the market is small, and (3) the cost of liquidity is low. These results explain the observed market behaviors and provide a rationale for model choices in different research contexts.
 </details>
 
 &nbsp;
 
+**Frictional Markup**
+<details>
+<summary> Abstract </summary>
+Markup is neither a sufficient nor a necessary indicator of market impacts. In classical Bertrand competition, firms heavily impact each other, yet the markup is zero. Conversely, in a competitive search environment, no firm has impact on equilibrium, but everyone has a positive markup. To address the question of how much of the actual markup is attributable to market power and search friction, respectively, I model finite-agent competition with two types of search frictions: noisy search and directed search. The former contributes to market power, while the latter sustains markup in a competitive environment. These two types of frictions can be identified from price dispersion and sales volatility. I estimate the model using NielsenIQ data and conduct counterfactual analysis.
+</details>
+&nbsp;
+
 # Work in progress
 
-**Frictional Markup**
-
-**Market Segmentation with Frictions**, with Peter Norman and Randall Wright
+**Pricing and Matching with Frictions and Heterogeneity**, with Peter Norman and Randall Wright
 
 **Market Order and Interest Rate Parity**
