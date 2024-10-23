@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Thesis: Three Chapters on Markets with Frictions
+# Dissertation: Three Chapters on Markets with Frictions
 
 **Market Liquidity and Inventory Cycles**
 
