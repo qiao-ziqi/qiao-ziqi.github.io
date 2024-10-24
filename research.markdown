@@ -6,7 +6,7 @@ permalink: /research/
 
 # Dissertation: Three Chapters on Markets with Frictions
 
-**Market Liquidity and Inventory Cycles**
+**Market Liquidity and Inventory Cycles** (Job Market Paper)
 
 [[paper]](asset/research/Qiao_Inventory_Cycles.pdf)
 <details>
