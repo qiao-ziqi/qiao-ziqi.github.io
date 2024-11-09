@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img align="right" width="230" style="margin-left:10px" src="/asset/pics/profile.jpg" />
+<img align="right" width="230" style="margin-left:10px" src="/asset/pics/profile2024.png" />
 
 Hello!
 
