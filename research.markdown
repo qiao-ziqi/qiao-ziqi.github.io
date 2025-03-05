@@ -34,6 +34,10 @@ Markup is neither a sufficient nor a necessary indicator of market impacts. In c
 
 # Work in progress
 
+**Revisiting Rubinstein and Wolinsky's Middlemen**, with Grace Xun Gong and Randall Wright
+
+**Intermediation with Imperfect Credit**, with Grace Xun Gong, Yuet-Yee Wong and Randall Wright
+
 **Pricing and Matching with Frictions and Heterogeneity**, with Peter Norman and Randall Wright
 
 **Market Order and Interest Rate Parity**
