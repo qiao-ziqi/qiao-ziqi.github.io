@@ -34,9 +34,9 @@ Markup is neither a sufficient nor a necessary indicator of market impacts. In c
 
 # Work in progress
 
-**Revisiting Rubinstein and Wolinsky's Middlemen**, with Grace Xun Gong and Randall Wright
+**Middlemen Redux**, with Grace Xun Gong and Randall Wright
 
-[[paper]](asset/research/GQW_032025.pdf)
+[[paper]](asset/research/GQW-final.pdf)
 [[middlemen literature]](https://github.com/qiao-ziqi/middlemen)
 
 ---
