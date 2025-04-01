@@ -11,8 +11,6 @@ Hello!
 
 I'm a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin-Madison.
 
-I am on the 2024-2025 job market.
-
 ### Research interests 
 
 Macroeconomics, Search & Matching, Market Structure, Monetary Economics
