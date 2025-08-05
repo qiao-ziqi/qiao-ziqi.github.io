@@ -6,7 +6,7 @@ permalink: /research/
 
 # Dissertation: Three Chapters on Markets with Frictions
 
-**Market Liquidity and Inventory Cycles** (Job Market Paper)
+**Market Liquidity and Inventory Cycles**
 
 [[paper]](asset/research/Qiao_Inventory_Cycles.pdf)
 <details>
@@ -37,11 +37,13 @@ Markup is neither a sufficient nor a necessary indicator of market impacts. In c
 **Middlemen Redux**, with Grace Xun Gong and Randall Wright
 
 [[paper]](asset/research/GQW-final.pdf)
-[[middlemen literature]](https://github.com/qiao-ziqi/middlemen)
+[[middlemen online bibliography]](https://github.com/qiao-ziqi/middlemen)
 
 ---
 
 **Intermediation with Imperfect Credit**, with Grace Xun Gong, Yuet-Yee Wong and Randall Wright
+
+[[paper]](asset/research/GQWW-final.pdf)
 
 ---
 
@@ -49,4 +51,4 @@ Markup is neither a sufficient nor a necessary indicator of market impacts. In c
 
 ---
 
-**Market Order and Interest Rate Parity**
+**Open Banking**, with Yuteng Cheng and Kee-Youn Kang
