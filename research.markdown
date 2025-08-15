@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Dissertation: Three Chapters on Markets with Frictions
+## Dissertation: Three Chapters on Markets with Frictions
 
 **Market Liquidity and Inventory Cycles**
 
@@ -32,7 +32,7 @@ Markup is neither a sufficient nor a necessary indicator of market impacts. In c
 </details>
 &nbsp;
 
-# Work in progress
+## Work in progress
 
 **Middlemen Redux**, with Grace Xun Gong and Randall Wright
 

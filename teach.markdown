@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching
+published: false
 permalink: /teach/
 ---
 # Teaching Assistant

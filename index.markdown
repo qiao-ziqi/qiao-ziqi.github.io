@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img align="right" width="230" style="margin-left:10px" src="/asset/pics/profile2024.png" />
+<img align="right" width="230" style="margin-left:10px" src="/asset/pics/profile2025.png" />
 
 Hello!
 
@@ -13,7 +13,7 @@ I'm a Ph.D. candidate in Agricultural & Applied Economics at the University of W
 
 ### Research interests 
 
-Macroeconomics, Search & Matching, Market Structure, Monetary Economics
+Macroeconomics, Search & Matching, Market Microstructure, Monetary Economics
 
 [[CV]](asset/cv/Qiao_CV.pdf)
 
