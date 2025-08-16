@@ -5,17 +5,42 @@
 layout: default
 ---
 
-<img align="right" width="230" style="margin-left:10px" src="/asset/pics/profile2025.png" />
+<img align="left" width="169" style="margin-right:30px" src="/asset/pics/profile2025.png" />
 
-Hello!
-
+<span style="color:DimGray">Hello!</span>
+<br>
 I'm a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin-Madison.
 
-### Research interests 
-
-Macroeconomics, Search & Matching, Market Microstructure, Monetary Economics
+<span style="color:DimGray">Research Interests</span> 
+<br>
+Macroeconomics, Market Microstructure, Monetary Economics
 
 [[CV]](asset/cv/Qiao_CV.pdf)
 
-### Email
-zqiao7@wisc.edu
+<span style="color:DimGray">Email:</span> zqiao7@wisc.edu
+
+<br />
+
+## Work in progress
+
+Middlemen Redux, with Grace Xun Gong and Randall Wright
+[[paper]](asset/research/GQW-final.pdf)
+[[middlemen online bibliography]](https://github.com/qiao-ziqi/middlemen)
+
+Intermediation with Imperfect Credit, with Grace Xun Gong, Yuet-Yee Wong and Randall Wright
+[[paper]](asset/research/GQWW-final.pdf)
+
+
+Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
+
+Open Banking, with Yuteng Cheng and Kee-Youn Kang
+
+
+## Dissertation: Three Chapters on Markets with Frictions
+
+Market Liquidity and Inventory Cycles
+[[paper]](asset/research/Qiao_Inventory_Cycles.pdf)
+
+Price Commitment, Reputation and Bargaining in Bilateral Trade
+
+Frictional Markup
