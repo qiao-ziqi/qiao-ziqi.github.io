@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img align="left" width="169" style="margin-right:30px" src="/asset/pics/profile2025.png" />
+<img align="left" width="160" style="margin-right:20px" src="/asset/pics/profile2025.png" />
 
 <span style="color:DimGray">Hello!</span>
 <br>
@@ -19,22 +19,22 @@ Macroeconomics, Market Microstructure, Monetary Economics
 
 <span style="color:DimGray">Email:</span> zqiao7@wisc.edu
 
-<br />
+<br>
 
 ## Work in progress
 
 Middlemen Redux, with Grace Xun Gong and Randall Wright
 [[paper]](asset/research/GQW-final.pdf)
-[[middlemen online bibliography]](https://github.com/qiao-ziqi/middlemen)
+[[online bibliography]](https://github.com/qiao-ziqi/middlemen)
 
 Intermediation with Imperfect Credit, with Grace Xun Gong, Yuet-Yee Wong and Randall Wright
 [[paper]](asset/research/GQWW-final.pdf)
-
 
 Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
 
 Open Banking, with Yuteng Cheng and Kee-Youn Kang
 
+<br>
 
 ## Dissertation: Three Chapters on Markets with Frictions
 
