@@ -22,24 +22,17 @@ Macroeconomics, Market Microstructure, Monetary Economics
 
 ## Work in progress
 
-Middlemen Redux, with Grace Xun Gong and Randall Wright
-[[paper]](asset/research/GQW-final.pdf)
+[Middlemen Redux](asset/research/GQW-final.pdf) with Grace Xun Gong and Randall Wright
 [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
 
-Intermediation with Imperfect Credit, with Grace Xun Gong, Yuet-Yee Wong and Randall Wright
-[[paper]](asset/research/GQWW-final.pdf)
+[Intermediation with Imperfect Credit](asset/research/GQWW-final.pdf) with Grace Xun Gong, Yuet-Yee Wong and Randall Wright
 
 Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
 
 Open Banking, with Yuteng Cheng and Kee-Youn Kang
 
-<br>
+**Dissertation: Three Chapters on Markets with Frictions**
 
-## Dissertation: Three Chapters on Markets with Frictions
-
-Market Liquidity and Inventory Cycles
-[[paper]](asset/research/Qiao_Inventory_Cycles.pdf)
-
-Price Commitment, Reputation and Bargaining in Bilateral Trade
-
-Frictional Markup
+1. [Market Liquidity and Inventory Cycles](asset/research/Qiao_Inventory_Cycles.pdf)
+2. Price Commitment, Reputation and Bargaining in Bilateral Trade
+3. Frictional Markup
