@@ -12,7 +12,7 @@ I'm a Ph.D. candidate in Agricultural & Applied Economics at the University of W
 
 <span style="color:DimGray">Research Interests</span> 
 <br>
-Macroeconomics, Market Microstructure, Monetary Economics
+Macroeconomics, Market Microstructure, Monetary and Financial Economics
 
 [[CV]](asset/cv/Qiao_CV.pdf)
 
@@ -20,7 +20,7 @@ Macroeconomics, Market Microstructure, Monetary Economics
 
 <br>
 
-## Working paper 
+## Working paper
 
 [Middlemen Redux](asset/research/GQW-final.pdf) with Grace Xun Gong and Randall Wright
 [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
@@ -28,12 +28,14 @@ Macroeconomics, Market Microstructure, Monetary Economics
 [Intermediation with Imperfect Credit](asset/research/GQWW-final.pdf) with Grace Xun Gong, Yuet-Yee Wong and Randall Wright
 
 ## Work in progress
+Middlemen in Search Equilibrium, with Grace Xun Gong and Randall Wright
+
 Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
 
-Open Banking, with Yuteng Cheng and Kee-Youn Kang
+Open Banking with Bertrand Competition, with Yuteng Cheng and Kee-Youn Kang 
 
 Dissertation: Three Chapters on Markets with Frictions
 
 1. [Market Liquidity and Inventory Cycles](asset/research/Qiao_Inventory_Cycles.pdf)
 2. Price Commitment, Reputation and Bargaining in Bilateral Trade
-3. Frictional Markup
+3. Markup Composition in the Presence of Competition and Frictions
