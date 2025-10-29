@@ -5,37 +5,38 @@
 layout: default
 ---
 
-<img align="left" width="160" style="margin-right:20px" src="/asset/pics/profile2025.png" />
+<img align="left" width="170" style="margin-right:20px" src="/asset/pics/profile2025.png" />
 <span style="color:DimGray">Hello!</span>
 <br>
 I'm a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin-Madison.
 
+**I am on the 2025-2026 job market.**
+
 <span style="color:DimGray">Research Interests</span> 
 <br>
-Macroeconomics, Market Microstructure, Monetary and Financial Economics
+Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 [[CV]](asset/cv/Qiao_CV.pdf)
 
 <span style="color:DimGray">Email:</span> zqiao7@wisc.edu
-
 <br>
+
+## Dissertation: Three Chapters on Markets with Frictions
+
+1. [Market Liquidity and Inventory Cycles](asset/research/Qiao_Inventory_Cycles.pdf) (job market paper)
+2. Price Commitment, Reputation and Bargaining in Bilateral Trade
+3. Markup Composition in the Presence of Competition and Frictions
 
 ## Working paper
 
-[Middlemen Redux](asset/research/GQW-final.pdf) with Grace Xun Gong and Randall Wright
-[[online bibliography]](https://github.com/qiao-ziqi/middlemen)
+[Middlemen Redux](asset/research/GQW-final.pdf) with <u>Grace Xun Gong</u> and <u>Randall Wright</u> (under review)
 
-[Intermediation with Imperfect Credit](asset/research/GQWW-final.pdf) with Grace Xun Gong, Yuet-Yee Wong and Randall Wright
+[Intermediation with Imperfect Credit](asset/research/GQWW-final.pdf) with <u>Grace Xun Gong</u>, <u>Yuet-Yee Wong</u> and <u>Randall Wright</u> (under review)
 
 ## Work in progress
-Middlemen in Search Equilibrium, with Grace Xun Gong and Randall Wright
+Pricing and Matching with Frictions and Heterogeneity, with <u>Peter Norman</u> and <u>Randall Wright</u>
 
-Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
+Open Banking: Inclusion, Pricing and Efficiency, with <u>Yuteng Cheng</u> and <u>Kee-Youn Kang</u> 
 
-Open Banking with Bertrand Competition, with Yuteng Cheng and Kee-Youn Kang 
-
-Dissertation: Three Chapters on Markets with Frictions
-
-1. [Market Liquidity and Inventory Cycles](asset/research/Qiao_Inventory_Cycles.pdf)
-2. Price Commitment, Reputation and Bargaining in Bilateral Trade
-3. Markup Composition in the Presence of Competition and Frictions
+## Book Chapter
+Middlemen in Search Equilibrium: A Survey, with <u>Grace Xun Gong</u> and <u>Randall Wright</u>, _Elements in Money and Banking_, edited by <u>Chao Gu</u> and <u>Joseph Haslag</u>, 2025, Cambridge University Press (forthcoming) [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
