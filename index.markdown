@@ -29,7 +29,7 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 ## Working paper
 
-[Middlemen Redux](asset/research/GQW-final.pdf) with <u>Grace Xun Gong</u> and <u>Randall Wright</u> (under review)
+[Middlemen Redux](asset/research/GQW-final.pdf) with <u>Grace Xun Gong</u> and <u>Randall Wright</u> (revise and resubmit, _Journal of Economic Behavior and Organization_)
 
 [Intermediation with Imperfect Credit](asset/research/GQWW-final.pdf) with <u>Grace Xun Gong</u>, <u>Yuet-Yee Wong</u> and <u>Randall Wright</u> (under review)
 
