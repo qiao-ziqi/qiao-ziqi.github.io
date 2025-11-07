@@ -19,6 +19,7 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 [[CV]](asset/cv/Qiao_CV.pdf)
 
 <span style="color:DimGray">Email:</span> zqiao7@wisc.edu
+
 <br>
 
 ## Dissertation: Three Chapters on Markets with Frictions
@@ -29,9 +30,9 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 ## Working paper
 
-[Middlemen Redux](asset/research/GQW-final.pdf) with <u>Grace Xun Gong</u> and <u>Randall Wright</u> (revise and resubmit, _Journal of Economic Behavior and Organization_)
+[Revisiting the Rubinstein-Wolinsky Model of Middlemen](asset/research/GQW-final.pdf), with <u>Grace Xun Gong</u> and <u>Randall Wright</u>, <span style="color:FireBrick">(revise and resubmit at <i>Journal of Economic Behavior and Organization)</i></span>
 
-[Intermediation with Imperfect Credit](asset/research/GQWW-final.pdf) with <u>Grace Xun Gong</u>, <u>Yuet-Yee Wong</u> and <u>Randall Wright</u> (under review)
+[Intermediation with Imperfect Credit](asset/research/GQWW-final.pdf), with <u>Grace Xun Gong</u>, <u>Yuet-Yee Wong</u> and <u>Randall Wright</u>, <span style="color:FireBrick">(under review)</span>
 
 ## Work in progress
 Pricing and Matching with Frictions and Heterogeneity, with <u>Peter Norman</u> and <u>Randall Wright</u>
@@ -39,4 +40,4 @@ Pricing and Matching with Frictions and Heterogeneity, with <u>Peter Norman</u> 
 Open Banking: Inclusion, Pricing and Efficiency, with <u>Yuteng Cheng</u> and <u>Kee-Youn Kang</u> 
 
 ## Book Chapter
-Middlemen in Search Equilibrium: A Survey, with <u>Grace Xun Gong</u> and <u>Randall Wright</u>, _Elements in Money and Banking_, edited by <u>Chao Gu</u> and <u>Joseph Haslag</u>, 2025, Cambridge University Press (forthcoming) [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
+[Middlemen in Search Equilibrium: A Survey](asset/research/Survey_middlemen.pdf), with <u>Grace Xun Gong</u> and <u>Randall Wright</u>, _Elements in Money and Banking_, edited by <u>Chao Gu</u> and <u>Joseph Haslag</u>, Cambridge University Press <span style="color:FireBrick">(forthcoming)</span> [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
