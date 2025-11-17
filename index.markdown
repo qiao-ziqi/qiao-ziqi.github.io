@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img align="left" width="170" style="margin-right:20px" src="/asset/pics/profile2025.png" />
+<img align="left" width="170" style="margin-right:20px" src="/asset/profile2025.png" />
 <span style="color:DimGray">Hello!</span>
 <br>
 I'm a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin-Madison.
@@ -16,7 +16,7 @@ I'm a Ph.D. candidate in Agricultural & Applied Economics at the University of W
 <br>
 Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
-[[CV]](asset/cv/Qiao_CV.pdf)
+[[CV]](asset/Qiao_CV.pdf)
 
 <span style="color:DimGray">Email:</span> zqiao7@wisc.edu
 
@@ -24,20 +24,21 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 ## Dissertation: Three Chapters on Markets with Frictions
 
-1. [Market Liquidity and Inventory Cycles](asset/research/Qiao_Inventory_Cycles.pdf) (job market paper)
-2. Price Commitment, Reputation and Bargaining in Bilateral Trade
-3. Markup Composition in the Presence of Competition and Frictions
+- [Market Liquidity and Inventory Cycles](asset/research/Qiao_Inventory_Cycles.pdf) <span style="color:FireBrick">(job market paper)</span>
+- Price Commitment, Reputation and Bargaining in Bilateral Trade
+- Markup Composition in the Presence of Competition and Frictions
 
-## Working paper
+## Working Paper
 
-[Revisiting the Rubinstein-Wolinsky Model of Middlemen](asset/research/GQW-final.pdf), with <u>Grace Xun Gong</u> and <u>Randall Wright</u>, <span style="color:FireBrick">(revise and resubmit at <i>Journal of Economic Behavior and Organization)</i></span>
+- [Intermediation with Imperfect Credit](asset/research/GQWW-final.pdf), with Grace Xun Gong, Yuet-Yee Wong and Randall Wright <span style="color:FireBrick">(under review)</span>
 
-[Intermediation with Imperfect Credit](asset/research/GQWW-final.pdf), with <u>Grace Xun Gong</u>, <u>Yuet-Yee Wong</u> and <u>Randall Wright</u>, <span style="color:FireBrick">(under review)</span>
+## Peer-reviewed Publications
 
-## Work in progress
-Pricing and Matching with Frictions and Heterogeneity, with <u>Peter Norman</u> and <u>Randall Wright</u>
+- Revisiting the Rubinstein-Wolinsky Model of Middlemen, with Grace Xun Gong and Randall Wright, <i>Journal of Economic Behavior and Organization </i> <span style="color:FireBrick">(forthcoming)</span> [[working version]](asset/research/GQW-final.pdf)
 
-Open Banking: Inclusion, Pricing and Efficiency, with <u>Yuteng Cheng</u> and <u>Kee-Youn Kang</u> 
+- Middlemen in Search Equilibrium: A Survey, with Grace Xun Gong and Randall Wright, _Elements in Money and Banking_, edited by Chao Gu and Joseph Haslag, Cambridge University Press <span style="color:FireBrick">(forthcoming)</span> [[NBER w34477]](https://www.nber.org/papers/w34477) [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
 
-## Book Chapter
-[Middlemen in Search Equilibrium: A Survey](asset/research/Survey_middlemen.pdf), with <u>Grace Xun Gong</u> and <u>Randall Wright</u>, _Elements in Money and Banking_, edited by <u>Chao Gu</u> and <u>Joseph Haslag</u>, Cambridge University Press <span style="color:FireBrick">(forthcoming)</span> [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
+## Work in Progress
+- Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
+
+- Open Banking: Inclusion, Pricing and Efficiency, with Yuteng Cheng and Kee-Youn Kang
