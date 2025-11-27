@@ -34,7 +34,7 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 ## Peer-reviewed Publications
 
-- Revisiting the Rubinstein-Wolinsky Model of Middlemen, with Grace Xun Gong and Randall Wright, <i>Journal of Economic Behavior and Organization </i> <span style="color:FireBrick">(forthcoming)</span> [[working version]](asset/research/GQW-final.pdf)
+- [Revisiting the Rubinstein-Wolinsky Model of Middlemen](https://authors.elsevier.com/c/1mAjec24bB5DJ), with Grace Xun Gong and Randall Wright, <i>Journal of Economic Behavior & Organization</i>, Vol. 240 (2025), 107345. [[WP version]](asset/research/GQW-final.pdf)
 
 - Middlemen in Search Equilibrium: A Survey, with Grace Xun Gong and Randall Wright, _Elements in Money and Banking_, edited by Chao Gu and Joseph Haslag, Cambridge University Press <span style="color:FireBrick">(forthcoming)</span> [[NBER w34477]](https://www.nber.org/papers/w34477) [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
 
