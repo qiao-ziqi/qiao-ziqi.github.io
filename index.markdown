@@ -36,7 +36,7 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 - [Revisiting the Rubinstein-Wolinsky Model of Middlemen](https://authors.elsevier.com/c/1mAjec24bB5DJ), with Grace Xun Gong and Randall Wright, <i>Journal of Economic Behavior & Organization</i>, Vol. 240 (2025), 107345. [[WP version]](asset/research/GQW-final.pdf)
 
-- Middlemen in Search Equilibrium: A Survey, with Grace Xun Gong and Randall Wright, _Elements in Money and Banking_, edited by Chao Gu and Joseph Haslag, Cambridge University Press <span style="color:FireBrick">(forthcoming)</span> [[NBER w34477]](https://www.nber.org/papers/w34477) [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
+- [Middlemen in Search Equilibrium: A Survey](https://www.cambridge.org/core/books/middlemen-in-search-equilibrium/3D9641A2AE987A2A577605AC2B5FE7C3), with Grace Xun Gong and Randall Wright, _Elements in Money and Banking_, edited by Chao Gu and Joseph Haslag, Cambridge University Press <span style="color:FireBrick">(forthcoming)</span> [[NBER w34477]](https://www.nber.org/papers/w34477) [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
 
 ## Work in Progress
 - Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
