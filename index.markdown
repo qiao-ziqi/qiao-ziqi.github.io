@@ -8,7 +8,7 @@ layout: default
 <img align="left" width="170" style="margin-right:20px" src="/asset/profile2025.png" />
 <span style="color:DimGray">Hello!</span>
 <br>
-I'm a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin-Madison.
+I will join the University of Bern as a postdoctoral researcher in August 2026.
 
 <span style="color:DimGray">Research Interests</span> 
 <br>
@@ -23,8 +23,8 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 ## Dissertation: Three Chapters on Markets with Frictions
 
 - [Market Liquidity and Inventory Cycles](asset/research/Qiao_Inventory_Cycles.pdf) 
-- Price Commitment, Reputation and Bargaining in Bilateral Trade
-- Markup Composition in the Presence of Competition and Frictions
+- Endogenous Bargaining in Directed Search 
+- Pricing and Matching with Coordination and Information Frictions 
 
 ## Working Paper
 
@@ -34,7 +34,7 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 - [Revisiting the Rubinstein-Wolinsky Model of Middlemen](https://authors.elsevier.com/c/1mAjec24bB5DJ), with Grace Xun Gong and Randall Wright, <i>Journal of Economic Behavior & Organization</i>, Vol. 240 (2025), 107345. [[WP version]](asset/research/GQW-final.pdf)
 
-- [Middlemen in Search Equilibrium: A Survey](https://www.cambridge.org/core/books/middlemen-in-search-equilibrium/3D9641A2AE987A2A577605AC2B5FE7C3), with Grace Xun Gong and Randall Wright, _Elements in Money and Banking_, edited by Chao Gu and Joseph Haslag, Cambridge University Press <span style="color:FireBrick">(forthcoming)</span> [[NBER WP]](https://www.nber.org/papers/w34477) [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
+- [Middlemen in Search Equilibrium: A Survey](https://www.cambridge.org/core/books/middlemen-in-search-equilibrium/3D9641A2AE987A2A577605AC2B5FE7C3), with Grace Xun Gong and Randall Wright, _Elements in Money and Banking_, edited by Chao Gu and Joseph Haslag, Cambridge University Press, 2026. [[NBER WP]](https://www.nber.org/papers/w34477) [[online bibliography]](https://github.com/qiao-ziqi/middlemen)
 
 ## Work in Progress
 - Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
