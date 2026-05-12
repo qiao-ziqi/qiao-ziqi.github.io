@@ -8,7 +8,7 @@ layout: default
 <img align="left" width="170" style="margin-right:20px" src="/asset/profile2025.png" />
 <span style="color:DimGray">Hello!</span>
 <br>
-I will join the University of Bern as a postdoctoral researcher in August 2026.
+I will join the University of Bern as a postdoctoral researcher in August 2026. I obtained my Ph.D. from the University of Wisconsin–Madison.
 
 <span style="color:DimGray">Research Interests</span> 
 <br>
