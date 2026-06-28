@@ -35,7 +35,7 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 - Endogenous Bargaining in Directed Search
 
-- Pricing and Matching with Coordination and Information Frictions 
+- Pricing and Matching with Information Friction 
 
 - Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
 
