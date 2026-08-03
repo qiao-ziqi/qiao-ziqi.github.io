@@ -8,7 +8,7 @@ layout: default
 <img align="left" width="170" style="margin-right:20px" src="/asset/profile2025.png" />
 <span style="color:DimGray">Hello!</span>
 <br>
-I will join the University of Bern as a postdoctoral researcher in August 2026.
+I am a postdoctoral fellow in the Department of Economics at the University of Bern.
 
 <span style="color:DimGray">Research Interests</span> 
 <br>
@@ -16,7 +16,7 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 [[CV]](asset/Qiao_CV.pdf)
 
-<span style="color:DimGray">Email:</span> zqiao7@wisc.edu
+<span style="color:DimGray">Email:</span> ziqi.qiao@unibe.ch
 
 <br>
 
@@ -35,7 +35,7 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 - Endogenous Bargaining in Directed Search
 
-- Pricing and Matching with Information Friction 
+- Noisy Directed Search
 
 - Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
 
