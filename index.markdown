@@ -24,6 +24,8 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 - [Middlemen and Imperfect Credit](asset/research/GQWW-revise.pdf), with Grace Xun Gong, Yuet-Yee Wong and Randall Wright <span style="color:FireBrick">(under review)</span>
 
+- [Noisy Directed Search](asset/research/Qiao_noisy_directed_search.pdf)
+
 ## Peer-reviewed Publications
 
 - [Revisiting the Rubinstein-Wolinsky Model of Middlemen](https://authors.elsevier.com/c/1mAjec24bB5DJ), with Grace Xun Gong and Randall Wright, <i>Journal of Economic Behavior & Organization</i>, Vol. 240 (2025), 107345. [[WP version]](asset/research/GQW-final.pdf)
@@ -34,8 +36,6 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 - [Market Liquidity and Inventory Cycles](asset/research/Qiao_Inventory_Cycles.pdf)
 
 - Endogenous Bargaining in Directed Search
-
-- Noisy Directed Search
 
 - Pricing and Matching with Frictions and Heterogeneity, with Peter Norman and Randall Wright
 
