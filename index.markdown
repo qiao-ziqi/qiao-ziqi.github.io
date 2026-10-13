@@ -22,7 +22,7 @@ Macroeconomics, Financial and Monetary Economics, Market Microstructure
 
 ## Working Paper
 
-- [Middlemen and Imperfect Credit](asset/research/GQWW-revise.pdf), with Grace Xun Gong, Yuet-Yee Wong and Randall Wright <span style="color:FireBrick">(under review)</span>
+- [Middlemen and Imperfect Credit](asset/research/GQWW-revise.pdf), with Grace Xun Gong, Yuet-Yee Wong and Randall Wright
 
 - [Noisy Directed Search](asset/research/Qiao_noisy_directed_search.pdf)
 
